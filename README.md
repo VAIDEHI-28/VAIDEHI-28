@@ -68,7 +68,9 @@ evaluating, and securing intelligent AI systems.
 </table>
 
 
-<h2>🛠️ Tech Stack</h2>
+<p>
+  <img src="./tech-stack-animated.svg" width="260" alt="Tech Stack"/>
+</p>
 
 <table>
 <tr>
