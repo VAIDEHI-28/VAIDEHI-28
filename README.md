@@ -29,7 +29,7 @@
 </p>
 
 <p>
-  <img src="./about-me-animated-dev-icon.svg" width="285" alt="About Me"/>
+  <img src="./about-me-animated-dev-icon.svg" width="275" alt="About Me"/>
 </p>
 
 I'm a Computer Engineering student and AI/ML Engineer focused on building, 
@@ -44,7 +44,7 @@ evaluating, and securing intelligent AI systems.
 - 🎯 Open to AI/ML, AI Evaluation, GenAI, and AI Security opportunities
 
 <p>
-  <img src="./what-i-work-on-animated.svg" width="360" alt="What I Work On"/>
+  <img src="./what-i-work-on-animated.svg" width="340" alt="What I Work On"/>
 </p>
 
 <table>
@@ -73,7 +73,7 @@ evaluating, and securing intelligent AI systems.
 
 
 <p>
-  <img src="./tech-stack-animated.svg" width="260" alt="Tech Stack"/>
+  <img src="./tech-stack-animated.svg" width="245" alt="Tech Stack"/>
 </p>
 
 <table>
@@ -121,7 +121,7 @@ evaluating, and securing intelligent AI systems.
 
 
 <p>
-  <img src="./featured-projects-girl.svg" width="430" alt="Featured Projects"/>
+  <img src="./featured-projects-girl.svg" width="380" alt="Featured Projects"/>
 </p>
 
 <table>
@@ -224,7 +224,7 @@ architectures on clinical DICOM data.
 
 
 <p>
-  <img src="./experience-creative.svg" width="390" alt="Experience"/>
+  <img src="./experience-creative.svg" width="375" alt="Experience"/>
 </p>
 
 <table>
@@ -309,7 +309,7 @@ Working with established open-source projects and contributing improvements that
 
 
 <p>
-  <img src="./github-analytics-final.svg" width="390" alt="GitHub Analytics"/>
+  <img src="./github-analytics-final.svg" width="370" alt="GitHub Analytics"/>
 </p>
 
 <p align="center">
@@ -318,7 +318,7 @@ Working with established open-source projects and contributing improvements that
 
 
 <p>
-  <img src="./currently-learning.svg" width="410" alt="Currently Learning"/>
+  <img src="./currently-learning.svg" width="380" alt="Currently Learning"/>
 </p>
 
 <p align="center">
