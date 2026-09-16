@@ -1,0 +1,62 @@
+<svg width="360" height="82" viewBox="0 0 360 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="merge" x1="8" y1="8" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#A78BFA"/>
+    <stop offset="1" stop-color="#67E8F9"/>
+  </linearGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="2" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<!-- GitHub-style merged pull request icon -->
+<g transform="translate(10 10)">
+  <!-- incoming branch -->
+  <path d="M18 10V29C18 37 25 40 31 40H39"
+        stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- merged branch -->
+  <path d="M18 50V41C18 34 24 30 31 30H39"
+        stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- final branch -->
+  <path d="M39 30V50"
+        stroke="url(#merge)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- PR nodes -->
+  <circle cx="18" cy="10" r="5" fill="#0F172A" stroke="#A78BFA" stroke-width="2"/>
+  <circle cx="18" cy="50" r="5" fill="#0F172A" stroke="#67E8F9" stroke-width="2"/>
+  <circle cx="39" cy="50" r="5" fill="#0F172A" stroke="#67E8F9" stroke-width="2"/>
+
+  <!-- merge check -->
+  <path d="M35.5 29.5L38.5 32.5L44 26.5"
+        stroke="#67E8F9" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"
+        filter="url(#glow)">
+    <animate attributeName="stroke-dasharray"
+             values="0 30;30 0;30 0" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- moving commit dot -->
+  <circle r="2.4" fill="#FFFFFF" filter="url(#glow)">
+    <animateMotion dur="2.2s" repeatCount="indefinite"
+      path="M18 10V29C18 37 25 40 31 40H39V50"/>
+  </circle>
+
+  <!-- subtle float -->
+  <animateTransform attributeName="transform" type="translate"
+    values="10 10;10 8.5;10 10" dur="3.5s" repeatCount="indefinite"/>
+</g>
+
+<!-- clean heading -->
+<text x="82" y="50"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="28"
+      font-weight="700"
+      fill="#FFFFFF">
+  Open Source
+</text>
+</svg>
