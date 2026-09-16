@@ -255,7 +255,9 @@ Built and optimized AI-powered systems for document and supply-chain analysis.
 </tr>
 </table>
 
-## 🌍 Open Source
+<p>
+  <img src="./open-source-merged-pr.svg" width="360" alt="Open Source"/>
+</p>
 
 <p align="center">
   <b>Contributing to real-world open-source ML infrastructure</b>
