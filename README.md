@@ -221,3 +221,36 @@ architectures on clinical DICOM data.
 
 </tr>
 </table>
+
+
+<p>
+  <img src="./experience.svg" width="390" alt="Experience"/>
+</p>
+
+<table>
+<tr>
+<td width="18%" valign="top" align="center">
+
+<b>Jan 2026</b><br>
+<b>—</b><br>
+<b>Mar 2026</b>
+
+</td>
+
+<td width="82%" valign="top">
+
+### Generative AI Intern — ARG Supply Tech Pvt. Ltd.
+
+Built and optimized AI-powered systems for document and supply-chain analysis.
+
+- 🤖 Developed a **Hybrid-RAG pipeline** using Python, LangChain, and ChromaDB
+- ⚡ Achieved **2–4 second query latency** through optimized retrieval and querying
+- 📉 Reduced manual analysis effort by approximately **40%**
+- 🚀 Improved query efficiency by approximately **30%**
+- 🔧 Built backend services using **FastAPI** with a React-based interface
+
+`Python` `LangChain` `ChromaDB` `FastAPI` `React` `RAG`
+
+</td>
+</tr>
+</table>
