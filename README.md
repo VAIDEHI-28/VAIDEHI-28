@@ -332,8 +332,10 @@ Working with established open-source projects and contributing improvements that
 </p>
 
 
-<p align="center">
-  <img src="./assets/lets-connect.svg" width="360" alt="Let's Connect"/>
+
+
+<p>
+  <img src="./lets-connect.png" width="360" alt="Let's Connect"/>
 </p>
 
 <p align="center">
