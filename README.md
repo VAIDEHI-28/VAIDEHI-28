@@ -119,5 +119,103 @@ evaluating, and securing intelligent AI systems.
 
 </table>
 
-  
-  
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🔥 Crucible</h3>
+
+<p align="center">
+<b>Failure-Mode Evaluation Harness for AI Agents</b>
+</p>
+
+<p>
+Stress-tests autonomous agents by injecting faults during execution
+to uncover silent failures that standard testing can miss.
+</p>
+
+<p align="center">
+<code>Agentic AI</code> · <code>FastAPI</code> · <code>Llama 3.3</code>
+</p>
+
+<p align="center">
+<b>4</b> failure modes<br>
+<b>40%</b> faults handled safely vs <b>0%</b> unguarded
+</p>
+
+<p align="center">
+<a href="https://github.com/VAIDEHI-28/Crucible-Stress-test-for-AI-Agents">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">⚡ NeuralScout</h3>
+
+<p align="center">
+<b>Candidate Search & Ranking Engine</b>
+</p>
+
+<p>
+A resource-efficient ranking pipeline combining semantic retrieval,
+BM25, cross-encoder reranking, and Reciprocal Rank Fusion.
+</p>
+
+<p align="center">
+<code>Python</code> · <code>ONNX</code> · <code>Docker</code>
+</p>
+
+<p align="center">
+<b>100K</b> candidates<br>
+<b>2.5 min</b> pipeline runtime<br>
+<b>161</b> automated tests
+</p>
+
+<p align="center">
+<a href="https://github.com/VAIDEHI-28/NeuralScout">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🫀 CAC Segmentation</h3>
+
+<p align="center">
+<b>Coronary Artery Calcium Segmentation</b>
+</p>
+
+<p>
+A deep-learning medical imaging pipeline comparing multiple
+architectures on clinical DICOM data.
+</p>
+
+<p align="center">
+<code>PyTorch</code> · <code>AWS SageMaker</code> · <code>Python</code>
+</p>
+
+<p align="center">
+<b>439</b> patients<br>
+<b>0.8820</b> Dice score<br>
+<b>3.8×</b> faster inference
+</p>
+
+<p align="center">
+<a href="https://github.com/VAIDEHI-28/PrediCT">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
