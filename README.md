@@ -224,7 +224,7 @@ architectures on clinical DICOM data.
 
 
 <p>
-  <img src="./experience.svg" width="390" alt="Experience"/>
+  <img src="./experience-creative.svg" width="390" alt="Experience"/>
 </p>
 
 <table>
