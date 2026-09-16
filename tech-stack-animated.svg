@@ -1,0 +1,49 @@
+<svg width="260" height="65" viewBox="0 0 260 65" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#6C8CFF"/>
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Animated coding symbol -->
+  <g transform="translate(8 8)" filter="url(#softGlow)">
+    <!-- < > -->
+    <g opacity="0">
+      <path d="M22 12 L8 24.5 L22 37" fill="none" stroke="url(#glow)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M42 12 L56 24.5 L42 37" fill="none" stroke="url(#glow)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.25;0.30;1" dur="4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- { } -->
+    <g opacity="0">
+      <path d="M23 10 C15 10 15 15 15 19 L15 22 C15 25 12 25 10 25 C12 25 15 25 15 29 L15 32 C15 36 15 39 23 39" fill="none" stroke="url(#glow)" stroke-width="3.2" stroke-linecap="round"/>
+      <path d="M41 10 C49 10 49 15 49 19 L49 22 C49 25 52 25 54 25 C52 25 49 25 49 29 L49 32 C49 36 49 39 41 39" fill="none" stroke="url(#glow)" stroke-width="3.2" stroke-linecap="round"/>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.30;0.55;0.60;1" dur="4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- [ ] -->
+    <g opacity="0">
+      <path d="M24 11 L14 11 L14 38 L24 38" fill="none" stroke="url(#glow)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M40 11 L50 11 L50 38 L40 38" fill="none" stroke="url(#glow)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.60;0.85;0.90" dur="4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- AI -->
+    <g opacity="0">
+      <text x="32" y="33" text-anchor="middle" fill="url(#glow)" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">AI</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.85;0.90;0.96;0.99;1" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <text x="78" y="41" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">
+    Tech Stack
+  </text>
+</svg>
