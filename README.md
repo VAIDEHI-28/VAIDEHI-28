@@ -40,3 +40,78 @@ evaluating, and securing intelligent AI systems.
 - 🌱 Open-source contributor with 3 merged pull requests
 - 💼 Former Generative AI Intern at ARG Supply Tech
 - 🎯 Open to AI/ML, AI Evaluation, GenAI, and AI Security opportunities
+
+<h2>⚙️ What I Work On</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<img src="./buildAI.svg" width="100%" alt="Build AI"/>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="./evaluateAI.svg" width="100%" alt="Evaluate AI"/>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="./secureAI.svg" width="100%" alt="Secure AI"/>
+
+</td>
+
+</tr>
+</table>
+
+
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+<tr>
+<td width="25%" align="center"><b>💻 LANGUAGES</b></td>
+<td width="75%">Python · C++ · SQL · Bash</td>
+</tr>
+
+<tr>
+<td align="center"><b>🧠 AI / ML</b></td>
+<td>PyTorch · TensorFlow · Scikit-learn · Transformers</td>
+</tr>
+
+<tr>
+<td align="center"><b>🤖 AI SYSTEMS</b></td>
+<td>LLMs · RAG · Agentic AI · GenAI · NLP · Deep Learning</td>
+</tr>
+
+<tr>
+<td align="center"><b>🧪 EVALUATION</b></td>
+<td>LLM Evaluation · LLM-as-a-Judge · Fault Injection · Agent Evaluation</td>
+</tr>
+
+<tr>
+<td align="center"><b>🔐 AI SECURITY</b></td>
+<td>AI Security · LLM Gateways</td>
+</tr>
+
+<tr>
+<td align="center"><b>⚙️ FRAMEWORKS</b></td>
+<td>LangChain · FastAPI · ONNX</td>
+</tr>
+
+<tr>
+<td align="center"><b>☁️ CLOUD & INFRA</b></td>
+<td>AWS · SageMaker · Docker · Linux</td>
+</tr>
+
+<tr>
+<td align="center"><b>🔧 TOOLS</b></td>
+<td>Git · GitHub</td>
+</tr>
+
+</table>
+
+  
+  
