@@ -120,7 +120,9 @@ evaluating, and securing intelligent AI systems.
 </table>
 
 
-<h2>🚀 Featured Projects</h2>
+<p>
+  <img src="./featured-projects-girl.svg" width="430" alt="Featured Projects"/>
+</p>
 
 <table>
 <tr>
