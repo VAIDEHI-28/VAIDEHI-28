@@ -254,3 +254,10 @@ Built and optimized AI-powered systems for document and supply-chain analysis.
 </td>
 </tr>
 </table>
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VAIDEHI-28&theme=transparent&hide_border=true&ring=67e8f9&fire=818cf8&currStreakLabel=ffffff&sideLabels=94a3b8&dates=64748b" />
+</p>
