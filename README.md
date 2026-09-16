@@ -334,9 +334,7 @@ Working with established open-source projects and contributing improvements that
 
 
 
-<p>
-  <img src="./lets-connect.png" width="360" alt="Let's Connect"/>
-</p>
+## 🤝 Let's Connect
 
 <p align="center">
   I'm always open to interesting AI/ML projects, research, collaborations, and opportunities.
