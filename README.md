@@ -315,3 +315,18 @@ Working with established open-source projects and contributing improvements that
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VAIDEHI-28&theme=transparent&hide_border=true&ring=67e8f9&fire=818cf8&currStreakLabel=ffffff&sideLabels=94a3b8&dates=64748b" />
 </p>
+
+
+<p align="center">
+  <img src="./assets/currently-learning.svg" width="410" alt="Currently Learning"/>
+</p>
+
+<p align="center">
+  <code>AI Security</code>
+  <code>Guardrails</code>
+  <code>LLM Evaluation</code>
+  <code>Model Armor</code>
+  <code>Secure AI Deployment</code>
+  <code>LLM Gateways</code>
+  <code>Data Structures & Algorithms</code>
+</p>
