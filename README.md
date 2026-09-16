@@ -27,3 +27,16 @@
 <p align="center">
   📍 Pune, India &nbsp;&nbsp; • &nbsp;&nbsp; 🎓 Computer Engineering Student (2027)
 </p>
+
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student and AI/ML Engineer focused on building, 
+evaluating, and securing intelligent AI systems.
+
+- 🤖 Building with LLMs, RAG, Agentic AI, and Deep Learning
+- 🧪 Exploring AI Evaluation, model reliability, and failure analysis
+- 🔐 Interested in AI Security, Guardrails, and secure AI deployment
+- 🚀 Building practical AI systems with a focus on reliability and real-world impact
+- 🌱 Open-source contributor with 3 merged pull requests
+- 💼 Former Generative AI Intern at ARG Supply Tech
+- 🎯 Open to AI/ML, AI Evaluation, GenAI, and AI Security opportunities
