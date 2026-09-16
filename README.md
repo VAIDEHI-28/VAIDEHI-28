@@ -255,6 +255,56 @@ Built and optimized AI-powered systems for document and supply-chain analysis.
 </tr>
 </table>
 
+## 🌍 Open Source
+
+<p align="center">
+  <b>Contributing to real-world open-source ML infrastructure</b>
+</p>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 nnU-Net
+
+Contributed improvements to the open-source medical image segmentation framework.
+
+**3 merged PRs**
+
+<a href="https://github.com/MIC-DKFZ/nnUNet">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🔧 Contributions
+
+Focused on improving preprocessing stability and data-pipeline efficiency.
+
+**Merged into main**
+
+<a href="https://github.com/MIC-DKFZ/nnUNet/pulls?q=is%3Apr+author%3AVAIDEHI-28+is%3Amerged">
+<img src="https://img.shields.io/badge/View%20PRs-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🚀 Beyond Projects
+
+Working with established open-source projects and contributing improvements that are reviewed and merged.
+
+**Open Source Contributor**
+
+</td>
+
+</tr>
+</table>
+
 
 <p>
   <img src="./github-analytics-final.svg" width="390" alt="GitHub Analytics"/>
