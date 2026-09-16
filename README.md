@@ -43,7 +43,9 @@ evaluating, and securing intelligent AI systems.
 - 💼 Former Generative AI Intern at ARG Supply Tech
 - 🎯 Open to AI/ML, AI Evaluation, GenAI, and AI Security opportunities
 
-<h2>⚙️ What I Work On</h2>
+<p>
+  <img src="./what-i-work-on-animated.svg" width="360" alt="What I Work On"/>
+</p>
 
 <table>
 <tr>
