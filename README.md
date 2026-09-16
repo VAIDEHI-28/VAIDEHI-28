@@ -317,8 +317,8 @@ Working with established open-source projects and contributing improvements that
 </p>
 
 
-<p align="center">
-  <img src="./assets/currently-learning.svg" width="410" alt="Currently Learning"/>
+<p>
+  <img src="./currently-learning.svg" width="410" alt="Currently Learning"/>
 </p>
 
 <p align="center">
@@ -329,4 +329,25 @@ Working with established open-source projects and contributing improvements that
   <code>Secure AI Deployment</code>
   <code>LLM Gateways</code>
   <code>Data Structures & Algorithms</code>
+</p>
+
+
+<p align="center">
+  <img src="./assets/lets-connect.svg" width="360" alt="Let's Connect"/>
+</p>
+
+<p align="center">
+  I'm always open to interesting AI/ML projects, research, collaborations, and opportunities.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaidehi-amrutkar-37bba0342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:v77857197@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2E7D32?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/VAIDEHI-28">
+    <img src="https://img.shields.io/badge/GitHub-VAIDEHI--28-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
