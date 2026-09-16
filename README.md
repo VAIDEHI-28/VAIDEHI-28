@@ -28,7 +28,9 @@
   📍 Pune, India &nbsp;&nbsp; • &nbsp;&nbsp; 🎓 Computer Engineering Student (2027)
 </p>
 
-## 👨‍💻 About Me
+<p>
+  <img src="./about-me-animated-dev-icon.svg" width="285" alt="About Me"/>
+</p>
 
 I'm a Computer Engineering student and AI/ML Engineer focused on building, 
 evaluating, and securing intelligent AI systems.
