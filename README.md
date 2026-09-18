@@ -109,7 +109,7 @@ evaluating, and securing intelligent AI systems.
 
 <tr>
 <td align="center"><b>☁️ CLOUD & INFRA</b></td>
-<td>AWS · SageMaker · Docker · Linux</td>
+<td>AWS SageMaker · Docker · Linux</td>
 </tr>
 
 <tr>
